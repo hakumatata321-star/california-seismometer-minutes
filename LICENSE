@@ -1,0 +1,19 @@
+The waveforms, station positions and earthquake catalogue entries in this dataset are derived from
+public data of the Southern California Seismic Network (SCSN), archived at the Southern California
+Earthquake Data Center (SCEDC), and of the Northern California Seismic Network (NCSN), archived at
+the Northern California Earthquake Data Center (NCEDC), as distributed through the AWS Open Data
+program (s3://scedc-pds and s3://ncedc-pds).
+
+SCEDC grants the non-exclusive, royalty free, non-transferable, worldwide right and license to use,
+reproduce and publicly display in all media public data from the Southern California Seismic Network.
+NCEDC grants the non-exclusive, royalty free, non-transferable, worldwide right and license to use,
+reproduce and publicly display in all media public data from the Northern California Seismic Network.
+
+Required citations:
+- SCEDC (2013): Southern California Earthquake Data Center. Caltech. Dataset. doi:10.7909/C3WD3xH1
+- California Institute of Technology and United States Geological Survey Pasadena (1926). Southern
+  California Seismic Network. International Federation of Digital Seismograph Networks. doi:10.7914/SN/CI
+- NCEDC (2014), Northern California Earthquake Data Center. UC Berkeley Seismological Laboratory.
+  Dataset. doi:10.7932/NCEDC
+
+The processing code and the arrangement of the data in this compilation are released under CC BY 4.0.
